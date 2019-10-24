@@ -1,12 +1,12 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import "./App.css";
 
-class Todo extends React.Component(){
-  constructor(props)
-  {
-    this.
-  } 
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header"></header>
+    </div>
+  );
 }
-class TodoList extends React.Component(){
 
-}
+export default App;
